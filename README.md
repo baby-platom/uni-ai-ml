@@ -1,0 +1,2 @@
+# uni-ai-ml
+The repository contains the Python notebook of an Artificial Intelligence & Machine Learning project. The data set named "Global Coffee Health Dataset" is taken from Kaggle and located at https://www.kaggle.com/datasets/uom190346a/global-coffee-health-dataset.
